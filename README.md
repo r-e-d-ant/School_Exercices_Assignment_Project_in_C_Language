@@ -1,1 +1,1 @@
-Collection of Exercices, Assignments, Projects in C programming Language in College
+Collection of Exercices, Assignments, Projects in C programming Language we do in College
