@@ -1,1 +1,1 @@
-Collection of Exercices, Assignments, Projects in C programming Language we do in College
+C program to enter length and width of a rectangle and find its area.
