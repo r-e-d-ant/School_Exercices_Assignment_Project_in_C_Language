@@ -1,0 +1,1 @@
+C program to find power of any number xy (x^y).
