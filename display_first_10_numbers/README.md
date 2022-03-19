@@ -1,1 +1,1 @@
-C rogram that displays the first 10 numbers.
+Program that displays the first 10 numbers.
