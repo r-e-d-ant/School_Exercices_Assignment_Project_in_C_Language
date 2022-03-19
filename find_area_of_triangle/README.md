@@ -1,0 +1,1 @@
+program to enter base and height of a triangle and find its area.
